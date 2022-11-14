@@ -19,8 +19,8 @@ A FreeDOS modding with the inspiration of an operating system called 'HEL OS' fr
  It stands for "High Entropy Labs", propably its original developer. The current HEL OS version in the game is 1.15, copyrighted High Entropy Labs in 1994.
  
  ## How to install
- De facto you can't just copy this to a FAT32 formatted disk and see it works. This is an underway work anyways, so I'll gotta tell about this later.
- Curious and wanna tryna bit? You can copy this to an existing DOS system, whether MS-DOS or FreeDOS, and remember to rename the DOS system folder to ```system``` as defined in the ```autoexec.bat``` file.
+ De facto you can't just copy those to a FAT32 formatted disk and see it works. This is an underway work anyways, so I'll gotta tell about this later.
+ Curious and wanna tryna bit? You can download the source, copy those to an existing DOS system, whether MS-DOS or FreeDOS, and remember to rename the DOS system folder to ```system``` as defined in the ```autoexec.bat``` file.
  
 ## Note a bit (```atrblist``` quotation)
  This sample of operating system can be done anything on.
