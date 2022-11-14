@@ -1,0 +1,23 @@
+!COUNTRY=001,858:\FDSetup\BIN\COUNTRY.SYS
+!LASTDRIVE=Z
+!BUFFERS=20
+!FILES=40
+
+DOS=HIGH
+DOS=UMB
+DOSDATA=UMB
+
+DEVICE=\FDSetup\BIN\HIMEMX.EXE
+
+SHELLHIGH=\FDSetup\BIN\COMMAND.COM \FDSetup\BIN /E:2048 /P=\AUTOEXEC.BAT
+
+name="HEL OS"
+ver="HEL OS v1.5rc/20221022" 				## Release Candidate v1.5
+build_date=10182022
+cpright="High Entropy Labs, 1994" 
+kerneltype=hybrid               ## Mixture of mostly DOS and UNIX.
+arch="i686"                     ## This system's architecture is 32-bit, but can adopt 64-bit environment 
+                                                ## (However, to run 64-bit programs, the OS will need modification.)
+system_directory=\system\
+kernel_directory=\system\base\
+usrdir=\user\root

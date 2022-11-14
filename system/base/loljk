@@ -1,0 +1,44 @@
+@echo off
+echo . . .
+timeout 2
+
+syskernl
+firmware/boot/bootia32.bldr
+echo Loading system files...
+echo sysrun.prg
+echo contr.prg
+echo ssserv.prg
+echo system.ini
+	cd.bat
+	clear.bat
+	date.bat
+	dir.bat
+	help.bat
+	initout
+	login
+	ls
+	osinfo
+	path.bat
+	pwd.bat
+	read.bat
+	whoami.bat
+echo resboot.sys
+echo dat.pak
+echo dat2.pak
+echo dat3.pak
+echo dat4.pak
+echo dat5.pak
+echo dat6.pak
+echo srvce.ext
+echo cat.ext
+echo pgfile.dump
+extensions...
+echo .
+echo  .
+echo .
+echo .
+echo .
+echo Kernel ver. 0.01
+echo Based on Unix 
+echo built 8/11/1993
+echo syst

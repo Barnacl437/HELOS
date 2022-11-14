@@ -1,0 +1,19 @@
+## Attribute list for the OS' kernel (just for fun and for version referrence and noting)
+
+name="HEL OS"
+ver="HEL OS v1.5test/20221114" 				## Testing. Date format yyyymmdd
+build_date=11142022
+cpright="High Entropy Labs, 1994" 
+kerneltype=hybrid               ## Mixture of mostly DOS and UNIX.
+arch="i686"                     ## This system's architecture is 32-bit, but can adopt 64-bit environment 
+                                                ## (However, to run 64-bit programs, the OS will need modification.)
+system_directory=\system\
+kernel_directory=\system\base\
+usrdir=\user\root
+
+
+
+
+## This sample of operating system can be done anything on.
+## Deployment of the OS on some serious tasks is testing.
+
