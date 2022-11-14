@@ -11,6 +11,9 @@ A FreeDOS modding with the inspiration of an operating system called 'HEL OS' fr
 (For graphical support, this doesn't have a graphic driver, perhaps you have to work on your own.)
  P/S: not completed yet, need more affair.
  
+ ## Why DOS, not a Linux kernel?
+ Uhhh, perhaps the system commands has the .exe format (but I used .bat instead for easily), so I assume it's mostly DOS-based.
+ 
  ## How to install
  De facto you can't just copy this to a FAT32 formatted disk and see it works. This is an underway work anyways, so I'll gotta tell about this later.
  Curious and wanna tryna bit? You can copy this to an existing DOS system, whether MS-DOS or FreeDOS, and remember to rename the DOS system folder to ```system``` as defined in the ```autoexec.bat``` file.
