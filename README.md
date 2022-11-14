@@ -15,7 +15,7 @@ A FreeDOS modding with the inspiration of an operating system called 'HEL OS' fr
  Uhhh, perhaps the system commands has the .exe format (but I used .bat instead for easily), so I assume it's mostly DOS-based.
  I'm just a wet step into the UNIX world, so I donno how to write a bash script yet. Beggin' pardon, need your sympathy.
  
- ##Whaddahek does HEL OS just mean?
+ ## Whaddahek does HEL OS just mean?
  It stands for "High Entropy Labs", propably its original developer. The current HEL OS version in the game is 1.15, copyrighted High Entropy Labs in 1994.
  
  ## How to install
