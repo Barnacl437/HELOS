@@ -1,5 +1,5 @@
 # HELOS
-A FreeDOS modding with the inspiration of an operating system called 'HEL OS' from the game High Entropy: Challenges. Just for fun, and I think I gotta beat this game.
+A FreeDOS modding with the inspiration of an operating system called 'HEL OS' from the game [High Entropy: Challenges](https://store.steampowered.com/app/1389630/High_Entropy_Challenges/). Just for fun, and I think I gotta beat this game.
 
 ## More about this (```osinfo``` content)
  This is a recovered copy of HEL OS in the game High Entropy Challenge, after an information collection.
