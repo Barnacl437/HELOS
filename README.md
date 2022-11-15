@@ -16,7 +16,7 @@ A FreeDOS modding with the inspiration of an operating system called 'HEL OS' fr
  I'm just a wet step into the UNIX world, so I donno how to write a bash script yet. Beggin' pardon, need your sympathy.
  
  ## Whaddahek does HEL OS just mean?
- It stands for "High Entropy Labs", propably its original developer. The current HEL OS version in the game is 1.15, copyrighted High Entropy Labs in 1994.
+ It stands for "High Entropy Labs", probably its original developer. The current HEL OS version in the game is 1.15, copyrighted High Entropy Labs in 1994.
  
  ## How to install
  De facto you can't just copy those to a FAT32 formatted disk and see it works. This is an underway work anyways, so I'll gotta tell about this later.
