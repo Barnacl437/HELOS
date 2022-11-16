@@ -1,16 +1,26 @@
 # HELOS
 A FreeDOS modding with the inspiration of an operating system called 'HEL OS' from the game [High Entropy: Challenges](https://store.steampowered.com/app/1389630/High_Entropy_Challenges/). Just for fun, and I think I gotta beat this game.
+
 (As of this time, you wouldn't able to see this page unless you're choosen, since this is private.)
 
 ## More about this (```osinfo``` content)
  This is a recovered copy of HEL OS in the game High Entropy: Challenges, after an information collection.
+ 
  This is a visually clone of how it work.
+ 
  In the game, it has a rudimentary GUI, but I'm kinda lazy to do that. (Need some help)
+ 
  This is basically a FreeDOS modding with some smell of UNIX commands. Mouse driver used is CuteMouse. (I dunno if I've bundled it here yet)
+ 
  I made it because I felt interested in the OS, by how it mixed a bit UNIX and DOS altogether.
+ 
  Also, this is just a barebone of whatever, you are free to do anything on this.
+
 (For graphical support, this doesn't have a graphic driver, perhaps you have to work on your own.)
- P/S: not completed yet, need more affair.
+
+P/S: not completed yet, need more affair.
+ 
+ The size of these barely system files are just over 1MB, good for embedded x86 environments (If you are gonna applying those to an exist DOS system, the size may vary upon your existing destination.
  
  ## Why DOS, not a Linux kernel?
  Uhhh, perhaps the system commands has the .exe format (but I used .bat instead for easily), so I assume it's mostly DOS-based.
