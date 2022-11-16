@@ -20,7 +20,7 @@ A FreeDOS modding with the inspiration of an operating system called 'HEL OS' fr
 
 P/S: not completed yet, need more affair.
  
- The size of these barely system files are just over 1MB, good for embedded x86 environments (If you are gonna applying those to an exist DOS system, the size may vary upon your existing destination.
+ The size of these barely system files are just over 1MB, good for embedded x86 environments (If you are gonna applying those to an exist DOS system, the size may vary upon your existing destination.)
  
  ## Why DOS, not a Linux kernel?
  Uhhh, perhaps the system commands has the .exe format (but I used .bat instead for easily), so I assume it's mostly DOS-based.
