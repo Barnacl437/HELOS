@@ -22,7 +22,7 @@ P/S: not completed yet, need more affair.
  
  The size of these barely system files are just over 1MB, good for embedded x86 environments (If you are gonna applying those to an exist DOS system, the size may vary upon your existing destination.)
  
- (A bit QnA below maybe...)
+ ## (A bit QnA below maybe...)
  ### Why DOS, not a Linux kernel?
  Uhhh, perhaps the system commands has the .exe format (but I used .bat instead for easily), so I assume it's mostly DOS-based.
  I'm just a wet step into the UNIX world, so I donno how to write a bash script yet. Beggin' pardon, need your sympathy.
