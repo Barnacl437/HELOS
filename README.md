@@ -1,7 +1,7 @@
 # HELOS
 A FreeDOS modding with the inspiration of an operating system called 'HEL OS' from the game [High Entropy: Challenges](https://store.steampowered.com/app/1389630/High_Entropy_Challenges/). Just for fun, and I think I gotta beat this game.
 
-(It used to be private, but I opened the repository on 11/19/2022 for any attention toward this repo.)
+(It used to be private, but I opened the repository on 11/19/2022 for any attention toward this repo. And yeah, up to now there ain't any attention yet. Phew.)
 
 ## More about this (```osinfo``` content)
  This is a recovered copy of HEL OS in the game High Entropy: Challenges, after an information collection.
@@ -28,7 +28,7 @@ P/S: not completed yet, need more affair.
  I'm just a wet step into the UNIX world, so I donno how to write a bash script yet. Beggin' pardon, need your sympathy.
  
  ### Whaddahek does HEL OS just mean?
- It stands for "High Entropy Labs", probably its original developer. The current HEL OS version in the game is 1.15, copyrighted High Entropy Labs in 1994
+ It stands for "High Entropy Labs", probably its original developer. The current HEL OS version in the game is 1.15, copyrighted High Entropy Labs in 1994.
  
  ### What about compatibilities?
  The FreeDOS system included in this repository is a floppy disk version of it. It has a relatively basic functioning, and lacks many things to be a stable and **really usable** installation. So you can't just run your favorite DOS games here--you'd need more.
