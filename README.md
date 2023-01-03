@@ -6,7 +6,7 @@ A FreeDOS modding with the inspiration of an operating system called 'HEL OS' fr
 ## More about this (```osinfo``` content)
  This is a recovered copy of HEL OS in the game High Entropy: Challenges, after an information collection.
  
- This is a visually clone of how it work.
+ This is an intuitive clone of how it work.
  
  In the game, it has a rudimentary GUI, but I'm kinda lazy to do that. (Need some help)
  
@@ -22,12 +22,16 @@ P/S: not completed yet, need more affair.
  
  The size of these barely system files are just over 1MB, good for embedded x86 environments (If you are gonna applying those to an exist DOS system, the size may vary upon your existing destination.)
  
- ## Why DOS, not a Linux kernel?
+ (A bit QnA below maybe...)
+ ### Why DOS, not a Linux kernel?
  Uhhh, perhaps the system commands has the .exe format (but I used .bat instead for easily), so I assume it's mostly DOS-based.
  I'm just a wet step into the UNIX world, so I donno how to write a bash script yet. Beggin' pardon, need your sympathy.
  
- ## Whaddahek does HEL OS just mean?
- It stands for "High Entropy Labs", probably its original developer. The current HEL OS version in the game is 1.15, copyrighted High Entropy Labs in 1994.
+ ### Whaddahek does HEL OS just mean?
+ It stands for "High Entropy Labs", probably its original developer. The current HEL OS version in the game is 1.15, copyrighted High Entropy Labs in 1994
+ 
+ ### What about compatibilities?
+ The FreeDOS system included in this repository is a floppy disk version of it. It has a relatively basic functioning, and lacks many things to be a stable and **really usable** installation. So you can't just run your favorite DOS games here--you'd need more.
  
  ## How to install
  De facto you can't just copy those to a FAT32 formatted disk and see it works. This is an underway work anyways, so I'll gotta tell about this later.
