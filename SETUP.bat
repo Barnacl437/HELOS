@@ -5,7 +5,7 @@ echo .
 echo .
 echo .
 echo ------------------------------------------------------
-echo - HEL OS v1.5rtest/01182023			   
+echo - HEL OS v1.5rtest/20230118			   
 echo - (c) 1994 High Entropy Labs.				   
 echo - Everett, Maine, USA.					   
 echo - A recovered copy of HEL OS v1.15 by Barnacl, 2022-2023.   
