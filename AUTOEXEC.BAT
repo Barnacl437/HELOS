@@ -15,7 +15,7 @@ rem SET COPYCMD=/-Y
 
 SET USRDIR=\users
 SET ROOT=\users\root
-SET VER=v1.5test/20221022
+SET VER=v1.5rtest/20230118
 
 DEVLOAD /H /Q %dosdir%\BIN\UDVD2.SYS /D:FDCD0001
 
