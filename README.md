@@ -37,7 +37,7 @@ P/S: not completed yet, need more affair.
  
  ## How to install
  De facto you can't just copy those to a FAT32 formatted disk and see it works. This is an underway work anyways, so I'll gotta tell about this later.
- Curious and wanna tryna bit? You can download the source, copy those to an existing DOS system, whether MS-DOS or FreeDOS, and remember to rename the DOS system folder to ```system``` as defined in the ```autoexec.bat``` file.
+ Curious and wanna tryna bit? You can download the source, copy those to an existing DOS system, whether MS-DOS or FreeDOS, and remember to rename the DOS system folder to ```system``` as defined in the ```autoexec.bat``` file (confliction may occur; overwrite them over to create the only ```system``` directory).
  
 ## Note a bit (```atrblist``` quotation)
  This sample of operating system can be done anything on.
