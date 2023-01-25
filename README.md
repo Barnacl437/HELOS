@@ -3,6 +3,8 @@ A FreeDOS modding with the inspiration of an operating system called 'HEL OS' fr
 
 (It used to be private, but I opened the repository on 11/19/2022 for any attention toward this repo. And yeah, up to now there ain't any attention yet. Phew.)
 
+Every new major update will be released each 3 months, starting from Jul 18, 2022 (the original initialisation day).
+
 ## More about this (```osinfo``` content)
  This is a recovered copy of HEL OS in the game High Entropy: Challenges, after an information collection.
  
