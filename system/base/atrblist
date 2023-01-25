@@ -1,8 +1,8 @@
 ## Attribute list for the OS' kernel (just for fun and for version referrence and noting)
 
 name="HEL OS"
-ver="HEL OS v1.5test/20221114" 				## Testing. Date format yyyymmdd
-build_date=11142022
+ver="HEL OS v1.5rtest/20230118" 				## Testing. Date format yyyymmdd. Every update will be surely released every 3 months, starting Jul 18, 2022.
+build_date=01182023
 cpright="High Entropy Labs, 1994" 
 kerneltype=hybrid               ## Mixture of mostly DOS and UNIX.
 arch="i686"                     ## This system's architecture is 32-bit, but can adopt 64-bit environment 
