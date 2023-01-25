@@ -2,7 +2,7 @@
 echo name: 
 echo 		OPENHEL
 echo version:
-echo 		v1.5rtest/20231118
+echo 		v1.5rtest_unstb/20230125 (unstable tag)
 echo test date:
 echo 		1/25/2023 (MM/DD/YYYY)
 echo ---- 
