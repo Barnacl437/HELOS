@@ -7,7 +7,7 @@ echo test date:
 echo 		Mon, 11/14/2022 (MM/DD/YYYY)
 echo ---- 
 echo This is a recovered copy of HEL OS in the game High Entropy Challenge, after an information collection.
-echo This is a visually clone of how it work.
+echo This is an intuitive clone of how it work.
 echo In the game, it has a rudimentary GUI, but I'm kinda lazy to do that. (Need some help)
 echo This is basically a FreeDOS modding with some smell of UNIX commands. Mouse driver used is CuteMouse.
 echo I made it because I felt interested in the OS, by how it mixed a bit UNIX and DOS altogether.
