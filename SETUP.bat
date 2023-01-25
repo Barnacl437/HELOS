@@ -1,5 +1,7 @@
 @echo off
+:Startup-program-zone start
 
+:Startup-program-zone end
 echo .
 echo .
 echo .
