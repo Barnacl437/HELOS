@@ -2,9 +2,9 @@
 echo name: 
 echo 		OPENHEL
 echo version:
-echo 		v1.5test/11142022
+echo 		v1.5rtest/20231118
 echo test date:
-echo 		Mon, 11/14/2022 (MM/DD/YYYY)
+echo 		1/25/2023 (MM/DD/YYYY)
 echo ---- 
 echo This is a recovered copy of HEL OS in the game High Entropy Challenge, after an information collection.
 echo This is an intuitive clone of how it work.
@@ -17,4 +17,4 @@ echo P/S: not completed yet, need more affair.
 echo ----
 echo Developed by High Entropy Labs at Everett, Maine, USA.
 echo (C) High Entropy Labs, 1994.
-echo Batch script written by Barnacl, 2022. Also crediting FreeDOS and anything included here.
+echo Batch script written by Barnacl, 2022-2023. Also crediting FreeDOS and anything included here.
