@@ -14,5 +14,5 @@ echo All available system exec.
 echo . 
 echo attrib cd clear command cp date del deltree devload dir doslfn edit fc fdapm fdimples fdinst
 echo fdisk fdisk131 format grep himemx login ls mem mkdir more osinfo path pkgman pwd 
-echo [read] rm sys time whoami 
+echo [read/more] rm sys time whoami 
 
