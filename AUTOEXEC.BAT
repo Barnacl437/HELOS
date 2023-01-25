@@ -54,6 +54,8 @@ alias reboot=fdapm warmboot
 alias reset=fdisk /reboot
 alias halt=fdapm poweroff
 alias shutdown=fdapm poweroff
+alias ls=dir
+alias read=more
 
 rem alias cfg=edit %cfgfile%
 rem alias auto=edit %0
