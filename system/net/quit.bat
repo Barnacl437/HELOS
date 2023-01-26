@@ -1,2 +1,2 @@
 @echo off
-echo There's no connected connection to quit.
+echo There's no active connection to quit.
