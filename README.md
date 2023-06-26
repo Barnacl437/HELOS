@@ -5,7 +5,7 @@ A [FreeDOS](https://www.freedos.org/) modding with the inspiration of an operati
 
 Every new major update will be released each 3 months, starting from Jul 18, 2022 (the original initialisation day).
 
-*Headnote*: Currently I have a temporary suspension on this project, because I have many other things to do, and this project seems boring over time. I may not publish major changes every 3 months, as well as other small fixes anymore. Interested? Fork it and do WTF you want. (Yes, the WTFPL) 
+*Headnote*: Currently I have a temporary suspension on this project, because I have many other things to do, and this project seems boring over time. I may not publish major changes every 3 months, as well as other small fixes anymore. Interested? Fork it and do WTF you want. (Yes, the [WTFPL](http://www.wtfpl.net/)) 
 
 ## More about this (```osinfo``` content)
  This is a recovered copy of HEL OS in the game High Entropy: Challenges, after an information collection.
@@ -30,6 +30,7 @@ P/S: not completed yet, need more affair.
  ### Why DOS, not a Linux kernel?
  Uhhh, perhaps the system commands has the .exe format (but I used .bat instead for easily), so I assume it's mostly DOS-based.
  I'm just a wet step into the UNIX world, so I donno how to write a bash script yet. Beggin' pardon, need your sympathy.
+ Yet maybe one day, someone will eventually do that... no idea.
  
  ### Whaddahek does HEL OS just mean?
  It stands for "High Entropy Labs", probably its original developer. The current HEL OS version in the game is 1.15, copyrighted High Entropy Labs in 1994.
@@ -47,3 +48,5 @@ P/S: not completed yet, need more affair.
 
 ## License
 NVM that license, I didn't intent to add a license. You are free to do something on this, like what you do with the FreeDOS project and whatever.
+
+Still think it will need a license? Use [WTFPL](http://www.wtfpl.net/) instead.
