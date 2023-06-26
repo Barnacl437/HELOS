@@ -4,6 +4,7 @@ A [FreeDOS](https://www.freedos.org/) modding with the inspiration of an operati
 (It used to be private, but I opened the repository on 11/19/2022 for any attention toward this repo. And yeah, up to now there ain't any attention yet. Phew.)
 
 Every new major update will be released each 3 months, starting from Jul 18, 2022 (the original initialisation day).
+Headnote: Currently I have a temporary suspension on this project, because I have many other things to do, and this project seems boring over time. I may not publish major changes every 3 months, as well as other small fixes anymore. Interested? Fork it and do WTF you want. (Yes, the WTFPL) 
 
 ## More about this (```osinfo``` content)
  This is a recovered copy of HEL OS in the game High Entropy: Challenges, after an information collection.
