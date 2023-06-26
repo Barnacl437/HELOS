@@ -47,6 +47,6 @@ P/S: not completed yet, need more affair.
  Deployment of the OS on some serious tasks is testing.
 
 ## License
-NVM that license, I didn't intent to add a license. You are free to do something on this, like what you do with the FreeDOS project and whatever.
+NVM that license, I didn't intend to add a license. You are free to do something on this, like what you do with the FreeDOS project and whatever.
 
 Still think it will need a license? Use [WTFPL](http://www.wtfpl.net/) instead.
