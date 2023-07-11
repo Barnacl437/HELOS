@@ -1,10 +1,8 @@
 # HELOS
-A [FreeDOS](https://www.freedos.org/) modification (for mostly demonstration and playing around for fun) with the inspiration of an operating system called 'HEL OS' from the game [High Entropy: Challenges](https://store.steampowered.com/app/1389630/High_Entropy_Challenges/). Just for fun, and I think I gotta beat this game.
+A [FreeDOS](https://www.freedos.org/) modification (for mostly demonstration and playing around for fun) with the inspiration of roughly replicating an operating system called 'HEL OS' from the game [High Entropy: Challenges](https://store.steampowered.com/app/1389630/High_Entropy_Challenges/). Just for fun, and I think I gotta beat this game.
 
 ![image](https://github.com/Barnacl437/HELOS/assets/87983017/f141c31d-bf05-4e49-a4bd-aaa8243378ca)
 
-
-(It used to be private, but I opened the repository on 11/19/2022 for any attention toward this repo. And yeah, up to now there ain't any attention yet. Phew.)
 
 Every new major update will be released each 3 months, starting from Jul 18, 2022 (the original initialisation day).
 
