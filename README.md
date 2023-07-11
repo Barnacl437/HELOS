@@ -1,5 +1,5 @@
 # HELOS
-A [FreeDOS](https://www.freedos.org/) modification (for mostly demonstration and playing around for fun) with the inspiration of roughly replicating an operating system called 'HEL OS' from the game [High Entropy: Challenges](https://store.steampowered.com/app/1389630/High_Entropy_Challenges/). Just for fun, and I think I gotta beat this game.
+A [FreeDOS](https://www.freedos.org/) modification (for mostly demonstration and playing around for fun) with the inspiration of roughly replicating an operating system called 'HEL OS' from the game [High Entropy: Challenges](https://store.steampowered.com/app/1389630/High_Entropy_Challenges/). Just for fun, and I think I gotta beat this game. This is initially written as a rough collection of .bat files, arranged into their own folders, and after there, they have been merged into a floppy disk edition of FreeDOS, with modified AUTOEXEC.bat, .sys file and more to fit the desired target system file structure.
 
 ![image](https://github.com/Barnacl437/HELOS/assets/87983017/f141c31d-bf05-4e49-a4bd-aaa8243378ca)
 
