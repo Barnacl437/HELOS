@@ -1,5 +1,5 @@
 # HELOS
-A [FreeDOS](https://www.freedos.org/) modding with the inspiration of an operating system called 'HEL OS' from the game [High Entropy: Challenges](https://store.steampowered.com/app/1389630/High_Entropy_Challenges/). Just for fun, and I think I gotta beat this game.
+A [FreeDOS](https://www.freedos.org/) modification (for mostly demonstration and playing around for fun) with the inspiration of an operating system called 'HEL OS' from the game [High Entropy: Challenges](https://store.steampowered.com/app/1389630/High_Entropy_Challenges/). Just for fun, and I think I gotta beat this game.
 
 ![image](https://github.com/Barnacl437/HELOS/assets/87983017/f141c31d-bf05-4e49-a4bd-aaa8243378ca)
 
