@@ -2,9 +2,9 @@
 echo name: 
 echo 		OPENHEL
 echo version:
-echo 		v1.5rtest_unstb/20230125 (unstable tag)
+echo 		v1.5rtest_unstb/20230711 (unstable tag)
 echo test date:
-echo 		1/25/2023 (MM/DD/YYYY)
+echo 		7/12/2023 (MM/DD/YYYY)
 echo ---- 
 echo This is a recovered copy of HEL OS in the game High Entropy Challenge, after an information collection.
 echo This is an intuitive clone of how it work.
