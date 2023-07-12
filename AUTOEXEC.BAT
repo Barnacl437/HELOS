@@ -55,7 +55,10 @@ alias reset=fdisk /reboot
 alias halt=fdapm poweroff
 alias shutdown=fdapm poweroff
 alias ls=dir
-alias read=more
+alias md=mkdir
+alias cp=xcopy
+alias rm=del
+alias mv=ren
 
 rem alias cfg=edit %cfgfile%
 rem alias auto=edit %0
@@ -69,7 +72,7 @@ AUTO_WELCOME=Welcome to the HELOS/OPENHEL operating system (based on FreeDOS)
 :SkipLanguageData
 echo /p Done processing startup files /fCyan FDCONFIG.SYS /a7 and /fCyan AUTOEXEC.BAT /a7/p
 
-if exist SETUP.BAT CALL SETUP.BAT BOOT
+if exist SHELL.BAT CALL SHELL.BAT BOOT
 
 if not exist %DOSDIR%\BIN\WELCOME.BAT goto V8Welcome
 call WELCOME.BAT
@@ -82,7 +85,7 @@ if not exist %DOSDIR%\BIN\HELP.EXE goto NoHelp
 echo /t %LANGFILE% AUTO_HELP HELP
 echo
 :NoHelp
-echo /t %LANGFILE% AUTO_WELCOME %OS_NAME% %OS_VERSION% http://www.freedos.org
+:echo /t %LANGFILE% AUTO_WELCOME %OS_NAME% %OS_VERSION% http://www.freedos.org
 echo
 set LANGFILE=
 
