@@ -8,25 +8,14 @@ Every new major update will be released each 3 months, starting from Jul 18, 202
 
 *Headnote*: Currently I have a temporary suspension on this project, because I have many other things to do, and this project seems boring over time. I may not publish major changes every 3 months, as well as other small fixes anymore, but sometimes I can do so perhaps. Interested? Fork it and do WTF you want. (Yes, the [WTFPL](http://www.wtfpl.net/)) 
 
-## More about this (```osinfo``` content)
- This is a recovered copy of HEL OS in the game High Entropy: Challenges, after an information collection.
- 
- This is an intuitive clone of how it work.
- 
- In the game, it has a rudimentary GUI, but I'm kinda lazy to do that. (Need some help)
- 
- This is basically a FreeDOS modding with some smell of UNIX commands. Mouse driver used is CuteMouse. (I dunno if I've bundled it here yet)
- 
- I made it because I felt interested in the OS, by how it mixed a bit UNIX and DOS altogether.
- 
- Also, this is just a barebone of whatever, you are free to do anything on this.
+## tell me more...
+This is a simple FreeDOS modification which aims to partially simulate a very basic and rudimentary UNIX commands while still in DOS base. Some commands such as `whoami` or `uname` are added and written from scratch. A number of added .bat files replicate what is inside the \system\base folder, as well as other random stuff. AUTOEXEC.bat, SHELL.bat (formerly SETUP.bat) and a config file have been modified too, to arrange things to work as desired.
 
-(For graphical support, this doesn't have a graphic driver, perhaps you have to work on your own.)
+Since this is FreeDOS so it's fairly compatible with normal DOS programs. With .bat file imported from DOS, you may need to rewrite something (mostly related to general commands such as 'copy' or 'move') to the corresponding ones in HEL. Other logical execution such as var defining, if-else function, while function and more are intact, to the DOS side, so you can continue using them normally.
 
-P/S: not completed yet, need more affair.
- 
- The size of these barely system files are just over 1MB, good for embedded x86 environments (If you are gonna applying those to an exist DOS system, the size may vary upon your existing destination.)
- 
+To say again, this is a personal fun project, you can do anything but don't take it seriously. Yes.
+
+
  ## (A bit QnA below maybe...)
  ### Why DOS, not a Linux kernel?
  Uhhh, perhaps the system commands has the .exe format (but I used .bat instead for easily), so I assume it's mostly DOS-based.
