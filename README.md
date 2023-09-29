@@ -37,6 +37,5 @@ To say again, this is a personal fun project, you can do anything but don't take
  Deployment of the OS on some serious tasks is testing.
 
 ## License
-NVM that license, I didn't intend to add a license. You are free to do something on this, like what you do with the FreeDOS project and whatever.
-
-Still think it will need a license? Use [WTFPL](http://www.wtfpl.net/) instead.
+This repository is released under [WTFPL](http://www.wtfpl.net/). It's simple, fast, neat and GNU GPL compatible.
+Do what the f*** you want to.
