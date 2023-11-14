@@ -6,7 +6,7 @@ A [FreeDOS](https://www.freedos.org/) modification (for mostly demonstration and
 
 Every new major update will be released each 3 months, starting from Jul 18, 2022 (the original initialisation day).
 
-*Headnote*: Currently I have a temporary suspension on this project, because I have many other things to do, and this project seems boring over time. I may not publish major changes every 3 months, as well as other small fixes anymore, but sometimes I can do so perhaps. Interested? Fork it and do WTF you want. (Yes, the [WTFPL](http://www.wtfpl.net/)) 
+*Notice*: Currently I have a temporary suspension on this project, because I have many other things to do, and this project seems boring over time. I may not publish major changes every 3 months, as well as other small fixes anymore, but sometimes I can do so perhaps. Interested? Fork it and do WTF you want. (Yes, the [WTFPL](http://www.wtfpl.net/)) 
 
 ## tell me more...
 This is a simple FreeDOS modification which aims to partially simulate a very basic and rudimentary UNIX commands while still in DOS base. Some commands such as `whoami` or `uname` are added and written from scratch. A number of added .bat files replicate what is inside the \system\base folder, as well as other random stuff. AUTOEXEC.bat, SHELL.bat (formerly SETUP.bat) and a config file have been modified too, to arrange things to work as desired.
