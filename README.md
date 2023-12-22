@@ -36,6 +36,9 @@ To say again, this is a personal fun project, you can do anything but don't take
  This sample of operating system can be done anything on.
  Deployment of the OS on some serious tasks is testing.
 
+## Contributions
+If you even but really understand what is this and why are you here, then feel free! I am actually very far from even writing a decent Batch script or making a DOS program. So if you can, you can. Do anything you want to improve this thing, or just leave it alone. That's up to you. I rarely make changes upon this nowadays. 
+
 ## License
 This repository is released under [WTFPL](http://www.wtfpl.net/). It's simple, fast, neat and GNU GPL compatible.
 Do what the f*** you want to.
