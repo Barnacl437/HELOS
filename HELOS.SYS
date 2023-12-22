@@ -12,8 +12,8 @@ DEVICE=\FDSetup\BIN\HIMEMX.EXE
 SHELLHIGH=\FDSetup\BIN\COMMAND.COM \FDSetup\BIN /E:2048 /P=\AUTOEXEC.BAT
 
 name="HEL OS"
-ver="v1.5rtest_unstb/20230711" 				## Test release (unstable tag).
-build_date=20230711
+ver="v1.5rtest_unstb/20231222" 				## Test release (unstable tag).
+build_date=20231222
 cpright="High Entropy Labs, 1994" 
 kerneltype=hybrid               ## Mixture of mostly DOS and UNIX.
 arch="i686"                     ## This system's architecture is 32-bit, but can adopt 64-bit environment 
